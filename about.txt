@@ -1,3 +1,0 @@
-Name: B.Meghana
-course:BSc computer science
-Github:To store and share
